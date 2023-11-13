@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = https://github.com/XDGUI/UniversalXDGUI.git
 local Window = OrionLib:MakeWindow({Name = "MertsHub", HidePremium = false, SaveConfig = false, ConfigFolder = "OrionTest"})
 
 --[[
